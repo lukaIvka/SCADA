@@ -1,0 +1,27 @@
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\Modbus\obj\Debug\Modbus.csprojAssemblyReference.cache
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\Modbus\obj\Debug\Modbus.pdb
+C:\Users\IrinaKovac\Desktop\projekat\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\IrinaKovac\Desktop\projekat\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\IrinaKovac\Desktop\projekat\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\IrinaKovac\Desktop\projekat\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\IrinaKovac\Desktop\projekat\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\IrinaKovac\Desktop\projekat\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\IrinaKovac\Desktop\projekat\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\IrinaKovac\Desktop\projekat\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\IrinaKovac\Desktop\projekat\dCom\Modbus\obj\Debug\Modbus.pdb
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\Modbus\obj\Debug\Modbus.pdb

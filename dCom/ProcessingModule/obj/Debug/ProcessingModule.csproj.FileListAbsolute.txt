@@ -1,0 +1,35 @@
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\obj\Debug\ProcessingModule.csprojResolveAssemblyReference.cache
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\ProcessingModule.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\ProcessingModule.pdb
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\Common.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\Modbus.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\Common.pdb
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\obj\Debug\ProcessingModule.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\obj\Debug\ProcessingModule.pdb
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\ProcessingModule\bin\Debug\ProcessingModule.dll
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\ProcessingModule\bin\Debug\ProcessingModule.pdb
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\ProcessingModule\bin\Debug\Common.dll
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\ProcessingModule\bin\Debug\Common.pdb
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.csprojAssemblyReference.cache
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CopyComplete
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.dll
+C:\Users\User\Desktop\scadaProjekat\scada materijali\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.pdb
+C:\Users\IrinaKovac\Desktop\projekat\dCom\ProcessingModule\bin\Debug\ProcessingModule.dll
+C:\Users\IrinaKovac\Desktop\projekat\dCom\ProcessingModule\bin\Debug\ProcessingModule.pdb
+C:\Users\IrinaKovac\Desktop\projekat\dCom\ProcessingModule\bin\Debug\Common.dll
+C:\Users\IrinaKovac\Desktop\projekat\dCom\ProcessingModule\bin\Debug\Common.pdb
+C:\Users\IrinaKovac\Desktop\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.AssemblyReference.cache
+C:\Users\IrinaKovac\Desktop\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CoreCompileInputs.cache
+C:\Users\IrinaKovac\Desktop\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CopyComplete
+C:\Users\IrinaKovac\Desktop\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.dll
+C:\Users\IrinaKovac\Desktop\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.pdb
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\ProcessingModule\bin\Debug\ProcessingModule.dll
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\ProcessingModule\bin\Debug\ProcessingModule.pdb
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\ProcessingModule\bin\Debug\Common.dll
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\ProcessingModule\bin\Debug\Common.pdb
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CopyComplete
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.dll
+C:\Users\User\Desktop\Akvizacioni upravljacki sistemi\projekat\dCom\ProcessingModule\obj\Debug\ProcessingModule.pdb
